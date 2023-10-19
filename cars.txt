@@ -1,0 +1,19 @@
+kia			2020			red			auto	
+logan			2016			silver			manual
+hyundai			2015			blue			auto	
+tipo			2018			black			manual
+sandero			2011			silver			manual
+
+civic			2019			red			manual
+
+asdasfs			34243			dsfsdf			sdfsd
+
+vintage			1950			maroon			vintage
+
+alto			800			678			alto
+
+Maaruthi		maruti800		red			maruti
+
+ridz			2015			blue			auto
+
+i10			2010			red			manual
